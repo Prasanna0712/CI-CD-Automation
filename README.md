@@ -2,8 +2,6 @@
 <img width="1920" height="1080" alt="Screenshot 2026-02-03 160245" src="https://github.com/user-attachments/assets/8e065c76-31eb-4b4e-9777-a8a108ea1846" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-03 160542" src="https://github.com/user-attachments/assets/a88af62b-92a4-412b-8525-2a7ec69d69b9" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-03 160524" src="https://github.com/user-attachments/assets/b1e28290-0310-4ed7-aabb-66461161bd71" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-03 160457" src="https://github.com/user-attachments/assets/1b981a8c-2645-4ae1-a5c6-5c71cfc9819d" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-03 161115" src="https://github.com/user-attachments/assets/8219f48e-cbeb-4059-9f51-ae80b2df51db" />
 
 🚀 **CI/CD Pipeline using Jenkins, Docker & Kubernetes (K3s)**
 📌 **Project Overview**
